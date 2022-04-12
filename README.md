@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kyledulce" alt="kyledulce" /></a> </p>
 
-- 🔭 I’m currently working on [A Gaming website](https://github.com/KyleDulce/GameSite)
+- 🔭 I’m currently working on [A Gaming website](https://github.com/KyleDulce/GameSite2)
 
 - 🌱 I’m currently learning **Spring Boot Framework**
 
