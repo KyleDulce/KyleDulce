@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Various Projects**
 
-- 🌱 I’m currently learning **How to use Jenkins effectively**
+- 🌱 I’m currently learning **Using Antlr4 to make a satire programming language**
 
 - 📫 How to reach me **kylejacob78@gmail.com**
 
