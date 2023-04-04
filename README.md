@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kyledulce" alt="kyledulce" /></a> </p>
 
-- 🔭 I’m currently working on [A Esoteric Programming Language](https://github.com/KyleDulce/LikeTheActualCode)
+- 🔭 I’m currently working on [An Esoteric Programming Language](https://github.com/KyleDulce/LikeTheActualCode)
 
 - 🌱 I’m currently learning **How to use Antlr4**
 
