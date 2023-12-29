@@ -2,7 +2,8 @@
 <h3 align="center">A Curious Software Engineering Student</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on [A Demo Kotlin Project](https://github.com/KyleDulce/Kotlin-chat-multiplatform)<br>📫 How to reach me **kylejacob78@gmail.com**<br>**Check out my [Unity Cross-platform Socket.io Library](https://github.com/KyleDulce/Unity-Socketio)**
+🔭 I’m currently working on: A [Game Website](https://github.com/KyleDulce/GameSite2), An experimental [Game Engine](https://github.com/KyleDulce/KEngine), A [Minecraft Fabric Mod](https://github.com/KyleDulce/Magical-Souls)
+<br>📫 How to reach me **kylejacob78@gmail.com**<br>**Check out my [Unity Cross-platform Socket.io Library](https://github.com/KyleDulce/Unity-Socketio)**
 
 
 ## 🌐 Socials:
