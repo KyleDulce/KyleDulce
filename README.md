@@ -1,5 +1,5 @@
 <h1 align="center">Greetings explorer, I'm Kyle Dulce</h1>
-<h3 align="center">A Curious Software Engineering Student</h3>
+<h3 align="center">A Curious Software Developer</h3>
 
 # 💫 About Me:
 🔭 I’m currently working on: A [Game Website](https://github.com/KyleDulce/GameSite2)
